@@ -1,9 +1,9 @@
-package Nascimento;
+package GuilhermeF_robo1;
 
 import robocode.*;
 import java.awt.Color;
 
-public class Nascimento extends Robot {
+public class GuilhermeF_robo1 extends Robot {
 
     public void run() {
         setBodyColor(Color.blue);
