@@ -1,10 +1,10 @@
-package Teste;
+package GuilhermeF_robo2;
 
 import robocode.*;
 import robocode.util.Utils;
 import java.awt.Color;
 
-public class Teste extends AdvancedRobot {
+public class GuilhermeF_robo2 extends AdvancedRobot {
 
     public void run() {
         setBodyColor(Color.blue);
